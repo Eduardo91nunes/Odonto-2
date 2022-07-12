@@ -1,0 +1,40 @@
+.titulo1 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    max-width: 100%;
+    
+}
+
+.logo1 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.img-fluid1 {
+    max-width: 50%;
+    height: max-content;
+}
+
+.text1 {
+    text-align: justify;
+    font-size: 2.7vh;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    z-index: 0;
+   
+}
+
+.titulo2 {
+    text-align:center;
+}
+
+.text {
+    text-align: justify;
+    font-size: 2.7vh;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    z-index: 0;
+   
+} 

@@ -1,0 +1,13 @@
+.body{
+    background-color: #89CACE;
+    z-index: 100;
+    justify-content: center;
+}
+
+.titulo1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: black;
+    
+
+}
